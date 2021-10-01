@@ -1,5 +1,10 @@
 # Curso em Vídeo de Python
 
+![license1](https://img.shields.io/static/v1?label=License&message=MIT&color=orange)
+
+
+![TelaInicial](Mundo1-PrimeirosPassos/img/Screenshot_20210930_210455.png)
+
 Professor Gustavo Guanabara
 
 https://www.cursoemvideo.com/course/python-3-mundo-1/
