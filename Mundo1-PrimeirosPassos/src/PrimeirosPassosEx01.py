@@ -1,2 +1,2 @@
-nome = input('Por favor, digite o seu nome ')
-print('Seja bem vindo(a) ' + nome + '!')
+nome = input('Qual é o seu nome? ')
+print('Olá ' + nome + '! Prazer em te conhecer!')
