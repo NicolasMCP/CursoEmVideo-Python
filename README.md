@@ -12,3 +12,4 @@ https://www.cursoemvideo.com/course/python-3-mundo-1/
 
 ![TelaInicial002](Mundo1-PrimeirosPassos/img/Screenshot_20211001_231542.png)
 
+![TelaInicial002](Mundo1-PrimeirosPassos/img/Screenshot_20211001_234106.png)
