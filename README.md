@@ -3,7 +3,7 @@
 ![license1](https://img.shields.io/static/v1?label=License&message=MIT&color=orange)
 
 
-![TelaInicial](https://github.com/NicolasMCP/CursoEmVideo-Python/blob/main/Mundo1-PrimeirosPassos/img/Screenshot_20210930_210455.png)
+![TelaInicial](Mundo1-PrimeirosPassos/img/Screenshot_20210930_210455.png)
 
 Professor Gustavo Guanabara
 
